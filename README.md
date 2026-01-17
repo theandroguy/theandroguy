@@ -47,12 +47,9 @@ I'm a passionate Full Stack Developer specializing in MERN Stack and Android Dev
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theandroguy&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div><br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theandroguy&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theandroguy&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
+
 
 ## 🤝 Let's Connect!
 
@@ -60,6 +57,20 @@ I'm a passionate Full Stack Developer specializing in MERN Stack and Android Dev
 [![Portfolio](https://img.shields.io/badge/-Check_My_Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://in.linkedin.com/in/tusharanand2000)
 
 ---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 📈 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theandroguy/theandroguy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theandroguy/theandroguy/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/theandroguy/theandroguy/output/github-contribution-grid-snake.svg">
+</picture>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=theandroguy&color=blue" alt="Profile Views" />
